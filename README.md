@@ -1,4 +1,5 @@
-  ██████╗██╗      ██████╗ ██╗   ██╗██████╗                
+```
+ ██████╗██╗      ██████╗ ██╗   ██╗██████╗                
 ██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗               
 ██║     ██║     ██║   ██║██║   ██║██║  ██║               
 ██║     ██║     ██║   ██║██║   ██║██║  ██║               
@@ -11,7 +12,8 @@
 ██╔══╝   ██╔██╗ ██╔═══╝ ██║   ██║╚════██║██╔══╝  ██╔══██╗
 ███████╗██╔╝ ██╗██║     ╚██████╔╝███████║███████╗██║  ██║
 ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
-                                                                
+```
+                                                 
 CloudExposer is a Python-based command-line interface (CLI) tool designed with an **offensive security mindset** to identify common security misconfigurations in AWS cloud environments and local Docker setups. By focusing on publicly exposed resources and overly permissive access, it helps organizations pinpoint potential **attack surface exposures** that adversaries frequently target.
 
 This tool serves as a **lightweight, homegrown auditor** to complement larger Attack Surface Management (ASM) solutions, providing highly targeted and actionable findings.
